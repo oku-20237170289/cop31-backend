@@ -1,0 +1,27 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Gizli Ortam Değişkenleri
+.env
+.env.local
+
+# Veritabanı ve Log Dosyaları
+*.sqlite3
+*.db
+*.sql
+*.log
+
+# Editör & Sistem Dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
